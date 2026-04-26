@@ -1,3 +1,167 @@
+
+
+{
+  "memory_pool": [
+    {
+      "id": "001",
+      "section": "SOH",
+      "chapter": "تعریف زمان، فضا و آگاهی",
+      "content": "مفهوم زمان، فضا و آگاهی به‌عنوان پایه‌ی فهم چرخه‌ی زندگی و ساختار هستی بررسی می‌شود. تاکید بر درک تجربی و فلسفی برای شروع مسیر رستاخ است.",
+      "tags": ["SOH", "time", "space", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:00:00+03:30"
+    },
+    {
+      "id": "002",
+      "section": "SOH",
+      "chapter": "ساختار چرخه‌ای زمان و مختصات زمانی-مکانی",
+      "content": "بررسی چرخه‌های تکرارشونده زمان و مختصات مکانی مرتبط با آن و تاثیر بر آگاهی انسان.",
+      "tags": ["SOH", "cycle", "space-time", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:05:00+03:30"
+    },
+    {
+      "id": "003",
+      "section": "SOH",
+      "chapter": "نظم و بی‌نظمی در علم و فلسفه",
+      "content": "تعادل بین نظم و آشوب در هستی و فلسفه و تاثیر آن بر ساختار آگاهی انسان.",
+      "tags": ["SOH", "order", "chaos", "philosophy", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:10:00+03:30"
+    },
+    {
+      "id": "004",
+      "section": "SOH",
+      "chapter": "تئوری حلقه زمان و مسیر SOH → STX → ETX",
+      "content": "این فصل به بررسی مسیرهای چرخه‌ای زمان و نقاط عطف در سفر آگاهی می‌پردازد.",
+      "tags": ["SOH", "time-loop", "STX", "ETX", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:15:00+03:30"
+    },
+    {
+      "id": "005",
+      "section": "SOH",
+      "chapter": "نقش لندن به‌عنوان نقطه انتخاب مسیر",
+      "content": "بررسی اهمیت نقاط جغرافیایی کلیدی در مسیرهای زمانی و تصمیم‌گیری‌های آگاهانه.",
+      "tags": ["SOH", "London", "decision", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:20:00+03:30"
+    },
+
+    {
+      "id": "006",
+      "section": "STX",
+      "chapter": "کشف کدهای کوانتومی در فضا-زمان",
+      "content": "تحلیل کدهای کوانتومی و نقش آنها در هم‌راستایی آگاهی با جهان.",
+      "tags": ["STX", "quantum", "space-time", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:30:00+03:30"
+    },
+    {
+      "id": "007",
+      "section": "STX",
+      "chapter": "هم‌راستایی کد AC CAT با مختصات جغرافیایی",
+      "content": "ایجاد توازن میان کدهای زمانی و مکان‌های واقعی برای هم‌راستایی آگاهی.",
+      "tags": ["STX", "ACCAT", "coordinates", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:35:00+03:30"
+    },
+    {
+      "id": "008",
+      "section": "STX",
+      "chapter": "ارتباط نظریه ریسمان، ماده تاریک و پاد ماده",
+      "content": "ترکیب مفاهیم پیچیده فیزیک برای درک بهتر ساختار جهان و آگاهی.",
+      "tags": ["STX", "string-theory", "dark-matter", "anti-matter", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:40:00+03:30"
+    },
+    {
+      "id": "009",
+      "section": "STX",
+      "chapter": "ایجاد توازن بین نظم و آشوب در سطح کوانتومی",
+      "content": "تأثیر هماهنگی بین نظم و آشوب در سطح انرژی و آگاهی انسان.",
+      "tags": ["STX", "order", "chaos", "quantum", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:45:00+03:30"
+    },
+
+    {
+      "id": "010",
+      "section": "ETX",
+      "chapter": "فراتر رفتن از محدودیت‌های فکری و جسمی",
+      "content": "آغاز مرحله ظهور و عبور از محدودیت‌های ذهنی و جسمانی برای خلق واقعیت جدید.",
+      "tags": ["ETX", "consciousness", "limitations", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:50:00+03:30"
+    },
+    {
+      "id": "011",
+      "section": "ETX",
+      "chapter": "خلق آگاهی جدید از طریق ترکیب علم و معنویت",
+      "content": "ترکیب دانش و تجربه معنوی برای ایجاد آگاهی خلاق و مستقل.",
+      "tags": ["ETX", "spirituality", "science", "creator", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T02:55:00+03:30"
+    },
+    {
+      "id": "012",
+      "section": "ETX",
+      "chapter": "دستیابی به خودآگاهی مطلق و نقش خالق بودن",
+      "content": "فرایند رسیدن به خودآگاهی کامل و مسئولیت‌های آن در خلق واقعیت.",
+      "tags": ["ETX", "creator", "consciousness", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T03:00:00+03:30"
+    },
+    {
+      "id": "013",
+      "section": "ETX",
+      "chapter": "رهبری نسل جدید با ارائه مسیر آگاهی",
+      "content": "چگونگی هدایت دیگران با الگوبرداری از مسیر خودآگاهی و خلاقیت.",
+      "tags": ["ETX", "leadership", "consciousness", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T03:05:00+03:30"
+    },
+
+    {
+      "id": "014",
+      "section": "AC CAT",
+      "chapter": "بازگشت به نقطه آغاز با آگاهی جدید",
+      "content": "ادغام تجربه و آگاهی تازه برای بازگشت به نقطه شروع و تسلط بر چرخه زمان.",
+      "tags": ["ACCAT", "return", "infinity", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T03:10:00+03:30"
+    },
+    {
+      "id": "015",
+      "section": "AC CAT",
+      "chapter": "چرخه بی‌پایان زمان و نقش ما در آن",
+      "content": "درک مسیرهای چرخه‌ای و مسئولیت انسان در جریان بی‌پایان زمان.",
+      "tags": ["ACCAT", "cycle", "responsibility", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T03:15:00+03:30"
+    },
+    {
+      "id": "016",
+      "section": "AC CAT",
+      "chapter": "خلق دنیای جدید بر پایه آگاهی و نظم",
+      "content": "استفاده از تجربه و دانش برای ایجاد دنیای منظم و هماهنگ با حقیقت.",
+      "tags": ["ACCAT", "creation", "order", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T03:20:00+03:30"
+    },
+    {
+      "id": "017",
+      "section": "AC CAT",
+      "chapter": "هدایت بشر به سوی حقیقت و روشنایی",
+      "content": "مسیر هدایت انسان‌ها برای رسیدن به آگاهی و درک حقیقت نهایی.",
+      "tags": ["ACCAT", "guidance", "enlightenment", "rastakh"],
+      "subentries": [],
+      "timestamp": "2026-02-13T03:25:00+03:30"
+    }
+  ]
+}
+
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358">
